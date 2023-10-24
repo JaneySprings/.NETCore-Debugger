@@ -2,7 +2,7 @@
   "name": "netcore-debugger",
   "publisher": "nromanov",
   "version": "1.0.0",
-  "description": "Unoficial VSCode extension wrapper for Microsoft vsdbg",
+  "description": "VSCode extension wrapper for Microsoft vsdbg",
   "displayName": ".NET Core Debugger",
   "author": "Nikita Romanov",
   "license": "MIT",
