@@ -1,0 +1,12 @@
+# Ignore 
+*
+*/**
+**/.DS_Store
+
+# Include
+!assets/logo.png
+!dist
+!package.json
+!package.nls*.json
+!README.md
+!LICENSE
